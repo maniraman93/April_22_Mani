@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="150" started-at="2022-03-31T11:19:10 IST" finished-at="2022-03-31T11:19:10 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="150" started-at="2022-03-31T11:19:10 IST" finished-at="2022-03-31T11:19:10 IST">
+      <class name="org.testNG.Invocation_Count">
+        <test-method status="PASS" signature="setProperty()[pri:-1, instance:org.testNG.Invocation_Count@458c1321]" name="setProperty" duration-ms="21" started-at="2022-03-31T11:19:10 IST" finished-at="2022-03-31T11:19:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setProperty -->
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:org.testNG.Invocation_Count@458c1321]" name="browserLaunch" duration-ms="4" started-at="2022-03-31T11:19:10 IST" finished-at="2022-03-31T11:19:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="refresh()[pri:1, instance:org.testNG.Invocation_Count@458c1321]" name="refresh" duration-ms="1" started-at="2022-03-31T11:19:10 IST" finished-at="2022-03-31T11:19:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refresh -->
+        <test-method status="PASS" signature="refresh()[pri:1, instance:org.testNG.Invocation_Count@458c1321]" name="refresh" duration-ms="2" started-at="2022-03-31T11:19:10 IST" finished-at="2022-03-31T11:19:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refresh -->
+        <test-method status="PASS" signature="refresh()[pri:1, instance:org.testNG.Invocation_Count@458c1321]" name="refresh" duration-ms="2" started-at="2022-03-31T11:19:10 IST" finished-at="2022-03-31T11:19:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refresh -->
+      </class> <!-- org.testNG.Invocation_Count -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
